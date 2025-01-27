@@ -1,6 +1,6 @@
 {
     "name": "Wii U Theme",
-    "description": "A sleek, modern Discord theme inspired by the iconic Wii U interface.",
+    "description": "A faithful recreation of the iconic Wii U interface for Discord mobile.",
     "authors": [
         {
             "name": "btmc727",
@@ -26,14 +26,35 @@
         "interactive-active": [
             "#005f99"
         ],
+        "background-floating": [
+            "#ffffff"
+        ],
+        "background-tertiary": [
+            "#e0e8f0"
+        ],
         "text-normal": [
             "#ffffff"
         ],
         "text-muted": [
-            "#a0a0a0"
+            "#b0c4d9"
         ],
         "text-link": [
             "#00a4ef"
+        ],
+        "text-on-accent": [
+            "#ffffff"
+        ],
+        "button-primary-background": [
+            "#00a4ef"
+        ],
+        "button-primary-background-hover": [
+            "#0078c1"
+        ],
+        "button-secondary-background": [
+            "#1e355c"
+        ],
+        "button-secondary-background-hover": [
+            "#11274d"
         ]
     },
     "rawColors": {
@@ -41,7 +62,10 @@
         "RAW_Color_2": "#00a4ef",
         "RAW_Color_3": "#1e355c",
         "RAW_Color_4": "#ffffff",
-        "RAW_Color_5": "#a0a0a0"
+        "RAW_Color_5": "#e0e8f0",
+        "RAW_Color_6": "#b0c4d9",
+        "RAW_Color_7": "#0078c1",
+        "RAW_Color_8": "#005f99"
     },
     "spec": 2
 }
