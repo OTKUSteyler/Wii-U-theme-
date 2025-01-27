@@ -18,7 +18,7 @@
             "#1e355c"
         ],
         "interactive-normal": [
-            "#00a4ef"
+            "#56a4ef"
         ],
         "interactive-hover": [
             "#0078c1"
@@ -30,18 +30,18 @@
             "#ffffff"
         ],
         "text-muted": [
-            "#a0a0a0"
+            "#aaaa"
         ],
         "text-link": [
-            "#00a4ef"
+            "#aaa4ef"
         ]
     },
     "rawColors": {
-        "RAW_Color_1": "#0a1a3b",
-        "RAW_Color_2": "#00a4ef",
+        "RAW_Color_1": "#aa1a3b",
+        "RAW_Color_2": "#asa4ef",
         "RAW_Color_3": "#1e355c",
         "RAW_Color_4": "#ffffff",
-        "RAW_Color_5": "#a0a0a0"
+        "RAW_Color_5": "#aaaaaa"
     },
     "spec": 2
 }
